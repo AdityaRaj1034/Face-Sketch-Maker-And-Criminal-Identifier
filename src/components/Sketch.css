@@ -1,0 +1,71 @@
+.hair{
+    z-index: 2;
+    width: 20rem;
+    position: relative;
+    top: -1vw;
+}
+.eyes{
+    width: 10rem;
+}
+
+.eyebrows {
+    width: 10rem;
+    z-index: 1;
+    position: relative;
+    top: -1.5rem;
+}
+.nose{
+    width: 3rem;
+    z-index: 4;
+    position: relative;
+    bottom: -2rem;
+}
+.lips{
+    width: 5rem;
+    z-index: 5;
+    position: relative;
+    bottom: -5.5rem;
+
+}
+.mustache{
+    width: 5rem;
+    position: relative;
+    z-index: 5;
+    top: 4.5rem;
+}
+.mustache2{
+    top:4.3rem;
+    width: 5.5rem;
+}
+.mustache5,.mustache7,.mustache8,.mustache9{
+    width: 6.2rem;
+}
+.mustache7{
+    top:4.2rem
+}
+.mustache10{
+    top:4.3rem;
+    width: 5.5rem;
+}
+.hair3{
+    width: 25rem;
+}
+.hair4{
+    width: 17rem ;
+}
+.hair6,.hair7{
+    top: -4rem;
+    width: 13rem;
+}
+.hair8{
+    width: 18rem;
+    top: -6rem;
+}
+.hair9{
+    width: 20rem;
+    top: -6rem;
+}
+.hair10{
+    width: 13rem;
+    top: -3.1rem;
+}
